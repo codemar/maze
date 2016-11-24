@@ -1,0 +1,14 @@
+﻿  &WDie Bewegung erfolgt mit den Pfeiltasten. Der dynamische Gegner besteht aus im%
+ Alphabet aufeinanderfolgende Buchstaben, und hat an zufälligen Stellen ein weißes%
+ X. Man muss die Buchstaben, die durch ein X abgedeckt werden  in der richtigen%
+ Reihenfolge eingeben, um den dynamischen Gegner zu töten. Z.b. bei dem Gegner%
+ &MDEF&WX&MHI&WX&MK&W muss man die Buchstaben G und J eingeben. Der dynamische%
+ Gegner findet immer den kürzesten Weg zum Spieler (A*), und fügt diesem Schaden hinzu,%
+ wenn er ihn fängt. Der statische Gegner erzeugt ein Feld, das sich regelmäßig%
+ ausdehnt und das dem Spieler Schaden hinzufügt. Wenn der statische Gegner grün%
+ leuchtet, kann man durch ihn durch laufen, um ihn zu töten. Die Anzahl der Leben%
+ des Spielers erkennt man an der Farbe der Spielfigur. Die Schlüssel zieht die%
+ Spielfigur hinter sich her. %
+%
+%
+%   Zum Fortfahren Enter drücken
